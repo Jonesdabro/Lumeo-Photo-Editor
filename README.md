@@ -1,6 +1,4 @@
 # Lumeo-Photo-Editor
-Upload and edit your photos in browser with Lumeo!
-Lumeo Photo Editor
 
 Upload and edit your photos directly in your browser with Lumeo!  A versatile photo editor built with HTML, CSS, and JavaScript.
 
